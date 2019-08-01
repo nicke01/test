@@ -1,0 +1,14 @@
+#main-block {
+	width:  40%;
+	margin: 0 auto;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	font-size: 14px;
+	color: #000;
+	text-align: center;
+}
